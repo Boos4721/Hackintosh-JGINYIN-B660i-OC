@@ -25,5 +25,3 @@ Cpu infomation
 ![c](./images/c.jpg)
 ![d](./images/d.jpg)
 ![e](./images/e.jpg)
-![f](./images/f.jpg)
-![g](./images/g.jpg)
